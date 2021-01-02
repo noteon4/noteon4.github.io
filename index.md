@@ -1,3 +1,7 @@
+## Link to my Penguin webpage
+
+[My Penguin Website](https://noteon4.github.io/penguin.html)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/noteon4/noteon4.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
